@@ -83,7 +83,7 @@
  * =================================================================== */
 
  .section-image {
- 	background:  #151515 url(https://github.com/ckonnor/ckonnor.github.io/blob/gh-pages/raw_images/city_water.png) no-repeat center center;
+ 	background: #151515 url(https://raw.githubusercontent.com/ckonnor/ckonnor.github.io/gh-pages/raw_images/city_water.png) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -247,7 +247,7 @@ section {
 }
 
 #skills {
-    background: #151515 url(https://github.com/ckonnor/ckonnor.github.io/blob/gh-pages/raw_images/data_science_bkgd.jpg) no-repeat center center;
+    background: #151515 url(https://raw.githubusercontent.com/ckonnor/ckonnor.github.io/gh-pages/raw_images/data_science_bkgd.jpg) no-repeat center center;
     height: auto;
 }
 
