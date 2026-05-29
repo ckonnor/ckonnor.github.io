@@ -414,10 +414,15 @@ h1 {
 
 .status {
   color: var(--teal);
+  white-space: nowrap;
 }
 
 .status.muted {
   color: var(--gold);
+}
+
+.status.in-progress {
+  color: var(--blue);
 }
 
 .project-badges {
