@@ -103,7 +103,7 @@ p {
   text-align: center;
   background:
     linear-gradient(130deg, rgba(16, 20, 21, 0.92), rgba(16, 20, 21, 0.58)),
-    url("assets/hero-waterfront.webp") center / cover;
+    url("assets/hero-analytics-workspace.webp") center / cover;
   overflow: hidden;
 }
 
