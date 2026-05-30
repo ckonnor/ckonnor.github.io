@@ -362,6 +362,14 @@ h1 {
   margin-left: auto;
 }
 
+.project-section .section-heading {
+  max-width: 1120px;
+}
+
+.project-section .section-heading h2 {
+  max-width: 760px;
+}
+
 .project-grid {
   align-items: start;
   grid-template-columns: 1.35fr 0.85fr 0.85fr;
